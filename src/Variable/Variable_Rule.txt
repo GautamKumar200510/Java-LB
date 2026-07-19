@@ -1,0 +1,16 @@
+# Java Variables
+-> A variable is a named memory location used to store data.
+-> Every variable in Java must have:
+
+* A data type
+* A unique name
+* A value (optional at declaration)
+
+Rules:
+
+ 1) Case Sensitivity [age vs AGE]
+ 2) Starting Character [a,A,_,$]
+ 3) SubSequent Character [0to9 , _ , $]
+ 4) No Reserved Keywords [ class , static etc]
+ 5) Length [ no limit, but meaningful names needed]
+ 6) Conventions: camelCase, UpperCase for Constants etc
