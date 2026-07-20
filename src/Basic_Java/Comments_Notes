@@ -1,0 +1,8 @@
+-> Comments = Code ko explain karne ke liye.
+
+-> Compiler comments ko ignore karta hai.
+
+Types:
+// → Single-Line
+/* ... */ → Multi-Line
+/** ... */ → Documentation (Javadoc)
