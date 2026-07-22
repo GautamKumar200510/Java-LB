@@ -1,0 +1,19 @@
+Interview Points ⭐
+
+1. int is the most commonly used integer type.
+2. double is the default type for decimal numbers.
+3. float values must end with f.
+4. long values are usually written with L (e.g., 100L).
+5. char stores one Unicode character, not a string.
+6. boolean stores only true or false
+
+Range Of Data Type:
+
+byte    → 1B  → -128 to 127
+short   → 2B  → -32K to 32K
+int     → 4B  → Most Used
+long    → 8B  → Very Large Numbers
+float   → 4B  → 6–7 digits (f)
+double  → 8B  → 15–16 digits (default)
+char    → 2B  → Unicode Character
+boolean → true / false
