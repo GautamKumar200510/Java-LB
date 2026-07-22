@@ -1,0 +1,16 @@
+Interview Points 
+
+1.Implicit = Widening = Automatic
+2.Explicit = Narrowing = Type Casting
+3.Explicit conversion uses (datatype).
+4.Widening is safe because the destination can hold all source values.
+5.Narrowing can lose precision or overflow.
+
+
+# Implicit (Widening): byte → short → int → long → float → double
+
+# Explicit (Narrowing): double → float → long → int → short → byte
+
+Easy Rule
+Small → Big = Implicit (Automatic) 
+Big → Small = Explicit (Manual Casting) 
