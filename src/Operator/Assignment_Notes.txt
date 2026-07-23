@@ -1,0 +1,9 @@
+Types of Assignment Operators
+
+Operator	 Name	                            Description	                                         Example                     Result
+=	     Simple Assignment	     Assigns the right-side value to the left-side variable.	         a = 10	                    a becomes 10
++=	     Add and Assign	         Adds the value and stores the result in the same variable.	         a += 5	                    a = a + 5
+-=	     Subtract and Assign	 Subtracts the value and stores the result.                          a -= 5	                    a = a - 5
+*=	     Multiply and Assign	 Multiplies the value and stores the result.	                     a *= 5                     a = a * 5
+/=	     Divide and Assign	     Divides the value and stores the result.	                         a /= 5	                    a = a / 5
+%=	     Modulus and Assign	     Finds the remainder and stores the result.                          a %= 5	                    a = a % 5
