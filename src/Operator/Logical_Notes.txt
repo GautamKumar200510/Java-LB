@@ -1,0 +1,3 @@
+&& → AND → All conditions must be true
+|| → OR → Any one condition is enough
+! → NOT → Reverse the result

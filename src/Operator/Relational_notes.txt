@@ -1,0 +1,10 @@
+Quick Revision Table
+
+Operator	Checks If	                  Returns true When
+
+==	         Equal	                  Both values are the same
+!=	        Not Equal	              Both values are different
+>	       Greater Than	              Left value is greater than right value
+<	        Less Than	              Left value is smaller than right value
+>=	   Greater Than or Equal To	      Left value is greater than or equal to right value
+<=	   Less Than or Equal To	      Left value is less than or equal to right value
