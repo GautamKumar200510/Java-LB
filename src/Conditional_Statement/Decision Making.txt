@@ -1,0 +1,65 @@
+Decision-making statements in Java allow a program to choose different execution paths based on specified conditions.
+
+# Types of Decision-Making Statements
+
+
+1. Java if Statement
+The if statement is the simplest decision-making statement. It executes a block of code only if a given condition is true
+
+Execution Flow
+
+->Condition is evaluated.
+->If the condition is true, the if block executes.
+->If the condition is false, the block is skipped.
+->Program continues with the next statement.
+
+
+2. Java if-else Statement
+The if-else statement allows you to execute one block if the condition is true and another block if it is false.
+
+Execution Flow
+
+->Condition is evaluated.
+->If true, the if block executes.
+->If false, the else block executes.
+->Program proceeds to the next statement.
+
+3. Java nested-if Statement
+A nested-if is an if statement inside another if statement. It is useful when a second condition depends on the first.
+
+Execution Flow
+
+->Outer if condition is evaluated first.
+->If the outer condition is true, the inner if condition is checked.
+->If the inner condition is also true, its block executes.
+->Program continues after the nested structure.
+
+
+4. Java if-else-if ladder
+The if-else-if ladder allows multiple independent conditions to be checked in order. As soon as one condition is true, its block executes, and the rest are skipped.
+
+Execution Flow
+
+->Conditions are evaluated from top to bottom.
+->The first condition that evaluates to true executes its block.
+->Remaining conditions are skipped.
+->If no condition is true, the else block executes.
+
+
+5. Java Switch Case
+The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression. 
+
+->The expression inside the switch statement is evaluated.
+->The value of the expression is compared with each case label.
+->If a matching case is found, the statements associated with that case are executed.
+->The break statement terminates the switch block and transfers control outside the switch.
+->If break is omitted, execution continues to the next case statements (fall-through).
+->If no case matches the expression value, the default block is executed (if present).
+->After the switch statement finishes execution, control moves to the next statement in the program.
+
+
+6.Ternary Operator (? :) in Java
+The ternary operator in Java is a conditional operator that provides a shorthand way to write simple if-else statements
+
+Syntax:
+condition ? expression_if_true : expression_if_false;
