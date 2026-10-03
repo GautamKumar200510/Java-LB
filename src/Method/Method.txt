@@ -1,0 +1,7 @@
+Java Methods are blocks of code that perform a specific task. 
+
+A method allows us to reuse code, improving both efficiency and organization. All methods in Java must belong to a class. Methods are similar to functions and expose the behavior of objects.
+
+
+-> A method allows to write a piece of logic once and reuse it wherever needed in the program.
+-> Helps to keep your code clean, organized, easier to understand and manage.
