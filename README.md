@@ -1,4 +1,4 @@
- Java-LB — Java Learning & Practice Repository
+# Java-LB — Java Learning & Practice Repository
 
 Welcome to **Java-LB**, a repository dedicated to learning and practicing Java programming. This repository contains Java source files organized within the `src` directory, along with workspace configuration for Visual Studio Code.
 
