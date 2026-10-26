@@ -77,32 +77,7 @@ Open the project in Visual Studio Code:
 code .
 ```
 
-## ▶️ How to Run a Java Program
 
-1. Open the `src` folder.
-2. Open the Java file you want to execute.
-3. Make sure the filename matches the public class name.
-4. Compile the program using the Java compiler.
-5. Run the compiled class.
-
-Example:
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, Java!");
-    }
-}
-```
-
-Compile and run from the directory containing `Main.java`:
-
-```bash
-javac Main.java
-java Main
-```
-
-Alternatively, use the **Run Java** option in Visual Studio Code if the Java extensions are installed.
 
 ## 📚 Suggested Learning Roadmap
 
