@@ -41,41 +41,7 @@ Java-LB/
 | Git | Version control |
 | GitHub | Source code hosting and progress tracking |
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-Install the following tools:
-
-- Java Development Kit (JDK)
-- Visual Studio Code
-- Extension Pack for Java in VS Code
-- Git (optional, for cloning and version control)
-
-Verify your Java installation:
-
-```bash
-java -version
-javac -version
-```
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/GautamKumar200510/Java-LB.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Java-LB
-```
-
-Open the project in Visual Studio Code:
-
-```bash
-code .
-```
 
 
 
