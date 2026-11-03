@@ -56,10 +56,7 @@ Java-LB/
 7. Exception Handling — try, catch, finally, and custom exceptions.
 8. DSA Practice — arrays, strings, linked lists, stacks, queues, trees, and algorithms.
 
-## 🔄 Git and GitHub Workflow
 
- origin main
-```
 
 ## 📈 Progress and Contributions
 
