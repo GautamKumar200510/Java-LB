@@ -58,28 +58,7 @@ Java-LB/
 
 ## 🔄 Git and GitHub Workflow
 
-Check the current status:
-
-```bash
-git status
-```
-
-Stage your changes:
-
-```bash
-git add .
-```
-
-Commit your changes:
-
-```bash
-git commit -m "Update Java practice programs"
-```
-
-Push to GitHub:
-
-```bash
-git push origin main
+ origin main
 ```
 
 ## 📈 Progress and Contributions
